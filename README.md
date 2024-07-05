@@ -17,8 +17,9 @@ Afterwards, The following questions are answered:
 4. Which months have the lowest and the highest atmospheric pressure on Mars?
 5. About how many terrestrial (Earth) days exist in a Martian year?
 
+For later analysis, data has been exported to [mars_data.csv](https://output_files/mars_data.csv)
 
-Final note:
+### Final note:
 
 * To see the extraction of the MARS Planet Science news, refer to [part_1_mars_news.ipynb](https://part_1_mars_news.ipynb)
 * To see the extraction and data analysis of the MARS Temperature Data, refer to [part_2_mars_news.ipynb](https://part_2_mars_news.ipynb)
